@@ -1,0 +1,19 @@
+{
+  "name": "کاتی نوێژ",
+  "short_name": "نوێژ",
+  "description": "کاتی نوێژی عێراق",
+  "start_url": "/prayer-times/",
+  "display": "standalone",
+  "background_color": "#0D9488",
+  "theme_color": "#0D9488",
+  "orientation": "portrait",
+  "lang": "ku",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/4116161-sketch/prayer-times/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
